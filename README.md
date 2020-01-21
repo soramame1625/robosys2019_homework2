@@ -1,7 +1,8 @@
 # ロボットシステム学2019 課題2
--ジャンクの二足歩行ロボットを購入し、コントロールボードをRaspberryPiに換装。ROSによるコントロールを可能にした。
--Gazeboの逆運動学ライブラリを利用し歩行モーション作成
--joystick-driversを利用しPS4専用コントローラ（DualShock4）により操作可能
+- ジャンクの二足歩行ロボットを購入し、修理後コントロールボードをRaspberryPiに換装。ROSによるコントロールを可能にした。
+- Gazeboの逆運動学ライブラリを利用し歩行モーション作成
+- joystick-driversを利用しPS4専用コントローラ（DualShock4）により操作可能
+- xero_cntl.launchを実行で起動
 # License
 - This repository is licensed under the GPLv3 License,see LICENSE.
 # Demo video
